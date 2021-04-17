@@ -1,0 +1,11 @@
+package com.rkiesling.mvnecho;
+
+public class MvnEchoApp {
+	public static void main (String args) {
+		if (args == null) {
+			System.out.println ("mvnecho: " + args);
+		} else {
+			System.out.println ("mvnecho: (null)");
+		}
+	}
+}

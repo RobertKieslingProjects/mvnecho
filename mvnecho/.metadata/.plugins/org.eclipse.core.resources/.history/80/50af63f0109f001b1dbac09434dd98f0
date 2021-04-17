@@ -1,0 +1,7 @@
+package com.rkiesling.mvnecho;
+
+public class MvnEchoApp {
+	public static void main (String [] args) {
+		System.out.println ("Hi");
+	}
+}

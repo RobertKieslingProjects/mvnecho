@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/rkiesling/builds/java/mvnecho/.metadata/.plugins/org.eclipse.jdt.core
+3242767418.index
